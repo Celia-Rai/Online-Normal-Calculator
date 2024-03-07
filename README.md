@@ -1,1 +1,1 @@
-#  create Normal-Calculator using html,CSS and JavaScript..
+#  Create Normal-Calculator using html,CSS and JavaScript..
